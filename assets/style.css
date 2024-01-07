@@ -91,4 +91,23 @@
   font-size: 18px;
   border-radius: 4px;
   cursor: pointer;
+  width: 40%;
+  margin: 0 10px 0 35px;
+}
+#reset {
+  background: var(--linear-gradient);
+  border: none;
+  padding: 10px;
+  color: #fff;
+  font-weight: bold;
+  font-size: 18px;
+  border-radius: 4px;
+  cursor: pointer;
+  width: 40%;
+  margin: 0 10px 0 20px;
+}
+
+#buttons {
+  display: inline-block;
+  justify-content: center;
 }
